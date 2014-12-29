@@ -1,3 +1,3 @@
 # Vagrant Configuration for Laravel
 
-Basic Vagrant setup for using with larval on Jose server
+Basic Vagrant setup for using with Laravel
